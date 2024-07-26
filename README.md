@@ -63,11 +63,12 @@ This is a simple Image to ASCII Converter built using Python and Tkinter. It all
 
 - `img_to_ascii.py`: The main script containing the application logic and GUI setup.
 
-## Example
 
-1. **Before**: Upload an image file [C:\Users\MOHAMMAD FAIZ JABIR\Desktop\download.png]
-2. **After**: The ASCII art of the image is displayed in the text area. [C:\Users\MOHAMMAD FAIZ JABIR\Pictures\Screenshots\Screenshot 2024-07-26 225830.png]
+### Before
+![Original Image](C:\Users\MOHAMMAD FAIZ JABIR\Desktop\download.png)
 
+### After
+![ASCII Art](C:\Users\MOHAMMAD FAIZ JABIR\Pictures\Screenshots\Screenshot 2024-07-26 225830.png)
 ## Contributing
 
 1. Fork the repository.
