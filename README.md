@@ -65,10 +65,10 @@ This is a simple Image to ASCII Converter built using Python and Tkinter. It all
 
 
 ### Before
-![Original Image](C:\Users\MOHAMMAD FAIZ JABIR\Desktop\download.png)
+![Original Image](download.png)
 
 ### After
-![ASCII Art](C:\Users\MOHAMMAD FAIZ JABIR\Pictures\Screenshots\Screenshot 2024-07-26 225830.png)
+![ASCII Art](after.png)
 ## Contributing
 
 1. Fork the repository.
