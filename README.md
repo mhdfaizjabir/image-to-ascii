@@ -87,5 +87,3 @@ This is a simple Image to ASCII Converter built using Python and Tkinter. It all
 - [Tkinter](https://wiki.python.org/moin/TkInter)
 
 ---
-
-=
